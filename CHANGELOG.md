@@ -9,3 +9,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.0.2]
 
 - Minor color fixes
+
+## [0.0.3]
+
+- Minor border color fixes

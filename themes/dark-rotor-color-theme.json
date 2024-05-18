@@ -4,7 +4,7 @@
     "titleBar.activeBackground": "#191919",
     "titleBar.inactiveBackground": "#191919",
     "tab.activeBackground": "#191919",
-    "tab.inactiveBackground": "#444444",
+    "tab.inactiveBackground": "#222222",
     "activityBar.background": "#191919",
     "editorGroupHeader.tabsBackground": "#191919",
     "breadcrumb.background": "#191919",
@@ -19,11 +19,11 @@
     "activityBarBadge.background": "#191919",
     "statusBar.background": "#191919",
     "statusBar.noFolderBackground": "#191919",
+    "button.background": "#222222",
 
     "tab.border": "#191919",
     "editorGroup.border": "#191919",
     "activityBar.border": "#191919",
-    "panel.border": "#191919",
 
     "titleBar.activeForeground": "#b4b4b4",
     "titleBar.inactiveForeground": "#b4b4b4",
@@ -35,15 +35,17 @@
     "sideBar.foreground": "#b4b4b4",
     "sideBarTitle.foreground": "#b4b4b4",
     "statusBar.foreground": "#b4b4b4",
+    "button.foreground": "#b4b4b4",
 
     "editorGroupHeader.border": "#2d2d2d",
     "statusBar.border": "#2d2d2d",
+    "panel.border": "#2d2d2d",
     "terminal.border": "#2d2d2d"
   },
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "comment.block", "punctuation.definition.comment"],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#525050",
         "fontStyle": "italic"
