@@ -1,0 +1,39 @@
+{
+  "name": "dark-rotor",
+  "displayName": "dark-rotor theme",
+  "description": "A tranquil dark theme",
+  "publisher": "rotorsoft",
+  "icon": "icon.png",
+  "author": {
+    "name": "rotorsoft",
+    "email": "rotorsoft@outlook.com"
+  },
+  "repository": "git+https://github.com/rotorsoft/dark-rotor.git",
+  "private": false,
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes",
+    "Programming Languages",
+    "Other"
+  ],
+  "keywords": [
+    "vscode",
+    "zen",
+    "dark",
+    "theme",
+    "miminal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-rotor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-color-theme.json"
+      }
+    ]
+  }
+}
