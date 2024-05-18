@@ -4,6 +4,7 @@
     "titleBar.activeBackground": "#191919",
     "titleBar.inactiveBackground": "#191919",
     "tab.activeBackground": "#191919",
+    "tab.inactiveBackground": "#444444",
     "activityBar.background": "#191919",
     "editorGroupHeader.tabsBackground": "#191919",
     "breadcrumb.background": "#191919",
@@ -42,7 +43,7 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": ["comment", "comment.block", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#525050",
         "fontStyle": "italic"
