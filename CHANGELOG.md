@@ -13,3 +13,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.0.3]
 
 - Minor border color fixes
+
+## [0.0.4]
+
+- Second pass coloring borders, widgets, and removing clutter
