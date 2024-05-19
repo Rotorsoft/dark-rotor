@@ -1,23 +1,23 @@
 {
   "name": "dark-rotor",
   "colors": {
-    "titleBar.activeBackground": "#191919",
-    "titleBar.inactiveBackground": "#191919",
-    "tab.activeBackground": "#191919",
+    "titleBar.activeBackground": "#121212",
+    "titleBar.inactiveBackground": "#121212",
+    "tab.activeBackground": "#121212",
     "tab.inactiveBackground": "#222222",
-    "activityBar.background": "#191919",
-    "editorGroupHeader.tabsBackground": "#191919",
-    "breadcrumb.background": "#191919",
-    "minimap.background": "#191919",
-    "menu.background": "#191919",
-    "banner.background": "#191919",
-    "sideBar.background": "#191919",
-    "editor.background": "#191919",
-    "terminal.background": "#191919",
-    "panel.background": "#191919",
-    "activityBarBadge.background": "#191919",
-    "statusBar.background": "#191919",
-    "statusBar.noFolderBackground": "#191919",
+    "activityBar.background": "#121212",
+    "editorGroupHeader.tabsBackground": "#121212",
+    "breadcrumb.background": "#121212",
+    "minimap.background": "#121212",
+    "menu.background": "#121212",
+    "banner.background": "#121212",
+    "sideBar.background": "#121212",
+    "editor.background": "#121212",
+    "terminal.background": "#121212",
+    "panel.background": "#121212",
+    "activityBarBadge.background": "#121212",
+    "statusBar.background": "#121212",
+    "statusBar.noFolderBackground": "#121212",
     "button.background": "#222222",
     "checkbox.background": "#222222",
     "dropdown.background": "#222222",
@@ -32,19 +32,21 @@
     "editorLineNumber.activeForeground": "#b4b4b4",
 
     "foreground": "#b4b4b4",
-    "disabledForeground": "#525050",
     "tab.activeForeground": "#b4b4b4",
     "editor.foreground": "#b4b4b4",
     "terminal.foreground": "#b4b4b4",
     "panelSectionHeader.foreground": "#b4b4b4",
     "sideBar.foreground": "#b4b4b4",
-    "statusBar.foreground": "#b4b4b4",
     "button.foreground": "#b4b4b4",
-    "icon.foreground": "#b4b4b4",
     "checkbox.foreground": "#b4b4b4",
     "dropdown.foreground": "#b4b4b4",
     "input.foreground": "#b4b4b4",
     "badge.foreground": "#b4b4b4",
+    "activityBar.foreground": "#b4b4b4",
+    "activityBarBadge.foreground": "#707070",
+    "icon.foreground": "#707070",
+    "statusBar.foreground": "#707070",
+    "disabledForeground": "#525050",
 
     "focusBorder": "#222222",
     "titleBar.border": "#222222",
@@ -57,10 +59,10 @@
     "sideBySideEditor.horizontalBorder": "#222222",
     "sideBySideEditor.verticalBorder": "#222222",
     "panel.border": "#222222",
-    "activityBar.border": "#191919",
-    "tab.border": "#191919",
-    "terminal.border": "#191919",
-    "editorOverviewRuler.border": "#191919"
+    "activityBar.border": "#121212",
+    "tab.border": "#121212",
+    "terminal.border": "#121212",
+    "editorOverviewRuler.border": "#121212"
   },
   "tokenColors": [
     {
@@ -240,6 +242,13 @@
       }
     },
 
+    {
+      "name": "Markup - Heading",
+      "scope": ["markup.heading"],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
     {
       "name": "Markup - Italic",
       "scope": ["markup.italic"],

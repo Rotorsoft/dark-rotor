@@ -20,7 +20,7 @@ Welcome to **dark-rotor**. This theme aims to provide a calm, zen-like coding ex
 
 ### Colors Used
 
-- **Background**: #191919 (Dark Grey)
+- **Background**: #121212 (Dark Charcoal)
 - **Foreground (default text)**: #b4b4b4 (Light Grey)
 - **Constants**: #57a46e (Soft Green)
 - **Function Names**: #5990bc (Soft Blue)
