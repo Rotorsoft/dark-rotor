@@ -23,3 +23,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 - Darker background using Dark Charcoal #121212
 - Dimmed icons and status bar
 - Bold markdown headings
+
+## [0.0.6]
+
+- Adds blue theme
