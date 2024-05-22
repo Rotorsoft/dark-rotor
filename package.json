@@ -30,9 +30,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "dark-rotor",
+        "label": "dark-rotor-charcoal",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-rotor-color-theme.json"
+        "path": "./themes/dark-rotor-charcoal.json"
+      },
+      {
+        "label": "dark-rotor-blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-blue.json"
       }
     ]
   }

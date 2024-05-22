@@ -4,7 +4,7 @@
     "titleBar.activeBackground": "#121212",
     "titleBar.inactiveBackground": "#121212",
     "tab.activeBackground": "#121212",
-    "tab.inactiveBackground": "#222222",
+    "tab.inactiveBackground": "#121212",
     "activityBar.background": "#121212",
     "editorGroupHeader.tabsBackground": "#121212",
     "breadcrumb.background": "#121212",
@@ -47,10 +47,15 @@
     "icon.foreground": "#707070",
     "statusBar.foreground": "#707070",
     "disabledForeground": "#525050",
+    "tab.inactiveForeground": "#525050",
 
+    "terminal.border": "#121212",
+    "titleBar.border": "#121212",
+    "activityBar.border": "#121212",
+    "tab.border": "#121212",
+    "editorOverviewRuler.border": "#121212",
+    "editorGroupHeader.border": "#121212",
     "focusBorder": "#222222",
-    "titleBar.border": "#222222",
-    "editorGroupHeader.border": "#222222",
     "statusBar.border": "#222222",
     "widget.border": "#222222",
     "dropdown.border": "#222222",
@@ -59,10 +64,8 @@
     "sideBySideEditor.horizontalBorder": "#222222",
     "sideBySideEditor.verticalBorder": "#222222",
     "panel.border": "#222222",
-    "activityBar.border": "#121212",
-    "tab.border": "#121212",
-    "terminal.border": "#121212",
-    "editorOverviewRuler.border": "#121212"
+    "tab.activeBorderTop": "#57a46e",
+    "editor.lineHighlightBackground": "#1c1c1c"
   },
   "tokenColors": [
     {
