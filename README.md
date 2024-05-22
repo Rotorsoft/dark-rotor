@@ -20,12 +20,25 @@ Welcome to **dark-rotor**. This theme aims to provide a calm, zen-like coding ex
 
 ### Colors Used
 
-- **Background**: #121212 (Dark Charcoal)
-- **Foreground (default text)**: #b4b4b4 (Light Grey)
-- **Constants**: #57a46e (Soft Green)
-- **Function Names**: #5990bc (Soft Blue)
-- **Comments**: #525050 (Muted Grey)
-- **Keywords**: #888888 (Soft Grey)
+### Charcoal Theme
+
+- **Background**: #121212
+- **Foreground**: #b4b4b4
+- **Borders**: #222222
+- **Shadows, Comments**: #525050, #707070
+- **Constants**: #57a46e
+- **Functions, Methods**: #5990bc
+- **Keywords, Operators, Punctuation**: #888888
+
+### Blue Theme
+
+- **Background**: #0d1b2a
+- **Foreground**: #a3b9cc
+- **Borders**: #1b263b
+- **Shadows, Comments**: #475d77, #6b7b94
+- **Constants**: #69c19e
+- **Functions, Methods**: #d9b27a
+- **Keywords, Operators, Punctuation**: #859bb2
 
 ## Recommended Settings
 
@@ -43,9 +56,9 @@ Welcome to **dark-rotor**. This theme aims to provide a calm, zen-like coding ex
     "source.fixAll": "explicit"
   },
   "editor.multiCursorModifier": "ctrlCmd",
-  "editor.fontFamily": "FiraCode Nerd Font Mono",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
   "editor.fontLigatures": true,
-  "editor.fontSize": 15,
+  "editor.fontSize": 18,
   "editor.lineHeight": 1.5,
   "editor.tabSize": 2,
   "editor.tabCompletion": "on",
@@ -54,17 +67,20 @@ Welcome to **dark-rotor**. This theme aims to provide a calm, zen-like coding ex
   "editor.rulers": [],
   "editor.inlineSuggest.suppressSuggestions": true,
   "editor.minimap.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.colorDecorators": true,
 
+  "breadcrumbs.enabled": false,
   "zenMode.hideLineNumbers": false,
   "zenMode.centerLayout": false,
   "zenMode.hideStatusBar": false,
 
-  "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
-  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontSize": 12,
   "terminal.integrated.env.osx": {},
   "terminal.integrated.tabs.enabled": true,
   "terminal.integrated.defaultProfile.osx": "zsh",
-  "terminal.integrated.lineHeight": 1.3,
+  "terminal.integrated.lineHeight": 1.2,
   "terminal.integrated.allowChords": true,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontWeightBold": "bold",
@@ -73,15 +89,16 @@ Welcome to **dark-rotor**. This theme aims to provide a calm, zen-like coding ex
   "terminal.integrated.cursorStyle": "underline",
   "terminal.integrated.minimumContrastRatio": 1,
 
-  "debug.console.fontFamily": "FiraCode Nerd Font Mono",
+  "debug.console.fontFamily": "JetBrainsMono Nerd Font",
   "debug.javascript.autoAttachFilter": "disabled",
 
-  "workbench.colorTheme": "dark-rotor",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "dark-rotor-blue",
+  "workbench.preferredDarkColorTheme": "dark-rotor-blue",
   "workbench.editor.empty.hint": "hidden",
   "workbench.panel.defaultLocation": "right",
   "workbench.sideBar.location": "right",
   "workbench.fontAliasing": "antialiased",
+  "workbench.colorCustomizations": {},
 
   "typescript.updateImportsOnFileMove.enabled": "prompt",
 
@@ -91,9 +108,9 @@ Welcome to **dark-rotor**. This theme aims to provide a calm, zen-like coding ex
 
   "diffEditor.ignoreTrimWhitespace": false,
 
-  "scm.inputFontSize": 14,
+  "scm.inputFontSize": 12,
 
-  "markdown.preview.fontFamily": "FiraCode Nerd Font Mono"
+  "markdown.preview.fontFamily": "JetBrainsMono Nerd Font"
 }
 ```
 

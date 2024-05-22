@@ -27,3 +27,8 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.0.6]
 
 - Adds blue theme
+
+## [0.0.7]
+
+- Adjust some colors
+- Update readme and settings
