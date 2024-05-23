@@ -32,3 +32,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 
 - Adjust some colors
 - Update readme and settings
+
+## [0.0.8]
+
+- Adds green theme

@@ -11,7 +11,7 @@
   "repository": "git+https://github.com/rotorsoft/dark-rotor.git",
   "private": false,
   "license": "MIT",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -38,6 +38,11 @@
         "label": "dark-rotor-blue",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-rotor-blue.json"
+      },
+      {
+        "label": "dark-rotor-green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-green.json"
       }
     ]
   }
