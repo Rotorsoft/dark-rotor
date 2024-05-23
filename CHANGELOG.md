@@ -36,3 +36,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.0.8]
 
 - Adds green theme
+
+## [0.0.9]
+
+- Ligher editor widget background and borders
