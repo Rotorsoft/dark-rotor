@@ -114,6 +114,7 @@ export const template = {
         "support.variable",
         "string constant.other.placeholder",
         "constant.other.color",
+        "meta.object-literal.key",
       ],
       settings: {
         foreground: "#variable",

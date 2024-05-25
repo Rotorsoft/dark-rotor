@@ -72,7 +72,7 @@
     "sideBar.foreground": "#c0c0e0",
     "tab.activeForeground": "#c0c0e0",
     "terminal.foreground": "#c0c0e0",
-    "tab.activeBorderTop": "#b3d88d"
+    "tab.activeBorderTop": "#ffd056"
   },
   "tokenColors": [
     {
@@ -97,7 +97,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#c0c0e0",
+        "foreground": "#b4b4e0",
         "fontStyle": "italic"
       }
     },
@@ -109,10 +109,11 @@
         "comment variable",
         "support.variable",
         "string constant.other.placeholder",
-        "constant.other.color"
+        "constant.other.color",
+        "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#d0d0f0",
+        "foreground": "#e0e0f5",
         "fontStyle": ""
       }
     },
@@ -131,7 +132,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#c792ea",
+        "foreground": "#8888b2",
         "fontStyle": "italic"
       }
     },
@@ -161,7 +162,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#c792ea",
+        "foreground": "#8888b2",
         "fontStyle": ""
       }
     },
@@ -176,7 +177,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#82aaff",
+        "foreground": "#c792ea",
         "fontStyle": ""
       }
     },
@@ -193,7 +194,7 @@
         "string.quoted.docstring punctuation.definition"
       ],
       "settings": {
-        "foreground": "#c3e88d",
+        "foreground": "#ffd056",
         "fontStyle": "italic"
       }
     },
@@ -211,7 +212,7 @@
         "string.quoted.double.json"
       ],
       "settings": {
-        "foreground": "#b3d88d",
+        "foreground": "#ffd056",
         "fontStyle": ""
       }
     },
@@ -232,7 +233,7 @@
         "text.html.basic entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#d0d0f0",
+        "foreground": "#ffd056",
         "fontStyle": "italic"
       }
     },
@@ -255,7 +256,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#c3e88d",
+        "foreground": "#b4b4e0",
         "fontStyle": "italic"
       }
     },
@@ -272,7 +273,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#82aaff",
+        "foreground": "#c792ea",
         "fontStyle": ""
       }
     },

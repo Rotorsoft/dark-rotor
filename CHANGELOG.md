@@ -46,3 +46,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 - Theme generator
 - Restructured colors
 - More generated themes
+
+## [0.1.1]
+
+- Duotone themes

@@ -47,32 +47,32 @@
     "sideBySideEditor.verticalBorder": "#1b2630",
     "statusBar.border": "#1b2630",
     "widget.border": "#1b2630",
-    "activityBarBadge.foreground": "#a3b9b077",
-    "disabledForeground": "#a3b9b077",
-    "editor.lineHighlightBackground": "#a3b9b011",
-    "editorLineNumber.foreground": "#a3b9b077",
-    "editorWidget.border": "#a3b9b077",
-    "icon.foreground": "#a3b9b077",
-    "list.activeSelectionBackground": "#a3b9b044",
-    "list.hoverBackground": "#a3b9b011",
-    "statusBar.foreground": "#a3b9b077",
-    "tab.inactiveForeground": "#a3b9b077",
-    "activityBar.foreground": "#a3b9b0",
-    "badge.foreground": "#a3b9b0",
-    "button.foreground": "#a3b9b0",
-    "checkbox.foreground": "#a3b9b0",
-    "dropdown.foreground": "#a3b9b0",
-    "editor.foreground": "#a3b9b0",
-    "editorLineNumber.activeForeground": "#a3b9b0",
-    "foreground": "#a3b9b0",
-    "input.foreground": "#a3b9b0",
-    "list.activeSelectionForeground": "#a3b9b0",
-    "panelSectionHeader.foreground": "#a3b9b0",
-    "progressBar.background": "#a3b9b0",
-    "sideBar.foreground": "#a3b9b0",
-    "tab.activeForeground": "#a3b9b0",
-    "terminal.foreground": "#a3b9b0",
-    "tab.activeBorderTop": "#69bcd4"
+    "activityBarBadge.foreground": "#7b9f9877",
+    "disabledForeground": "#7b9f9877",
+    "editor.lineHighlightBackground": "#7b9f9811",
+    "editorLineNumber.foreground": "#7b9f9877",
+    "editorWidget.border": "#7b9f9877",
+    "icon.foreground": "#7b9f9877",
+    "list.activeSelectionBackground": "#7b9f9844",
+    "list.hoverBackground": "#7b9f9811",
+    "statusBar.foreground": "#7b9f9877",
+    "tab.inactiveForeground": "#7b9f9877",
+    "activityBar.foreground": "#7b9f98",
+    "badge.foreground": "#7b9f98",
+    "button.foreground": "#7b9f98",
+    "checkbox.foreground": "#7b9f98",
+    "dropdown.foreground": "#7b9f98",
+    "editor.foreground": "#7b9f98",
+    "editorLineNumber.activeForeground": "#7b9f98",
+    "foreground": "#7b9f98",
+    "input.foreground": "#7b9f98",
+    "list.activeSelectionForeground": "#7b9f98",
+    "panelSectionHeader.foreground": "#7b9f98",
+    "progressBar.background": "#7b9f98",
+    "sideBar.foreground": "#7b9f98",
+    "tab.activeForeground": "#7b9f98",
+    "terminal.foreground": "#7b9f98",
+    "tab.activeBorderTop": "#5fa9c2"
   },
   "tokenColors": [
     {
@@ -97,7 +97,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#69bcd4",
+        "foreground": "#5fa9c2",
         "fontStyle": "italic"
       }
     },
@@ -109,7 +109,8 @@
         "comment variable",
         "support.variable",
         "string constant.other.placeholder",
-        "constant.other.color"
+        "constant.other.color",
+        "meta.object-literal.key"
       ],
       "settings": {
         "foreground": "#a3b9b0",
@@ -176,7 +177,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#d9b27a",
+        "foreground": "#c0a278",
         "fontStyle": ""
       }
     },
@@ -193,7 +194,7 @@
         "string.quoted.docstring punctuation.definition"
       ],
       "settings": {
-        "foreground": "#69bcd4",
+        "foreground": "#5fa9c2",
         "fontStyle": "italic"
       }
     },
@@ -211,7 +212,7 @@
         "string.quoted.double.json"
       ],
       "settings": {
-        "foreground": "#69bcd4",
+        "foreground": "#5fa9c2",
         "fontStyle": ""
       }
     },
@@ -222,7 +223,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#d26a6a",
+        "foreground": "#b35555",
         "fontStyle": "italic"
       }
     },
@@ -255,7 +256,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#d9b27a",
+        "foreground": "#c0a278",
         "fontStyle": "italic"
       }
     },
@@ -272,7 +273,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#d9b27a",
+        "foreground": "#c0a278",
         "fontStyle": ""
       }
     },

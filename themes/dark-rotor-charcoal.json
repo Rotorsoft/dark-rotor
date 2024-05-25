@@ -47,32 +47,32 @@
     "sideBySideEditor.verticalBorder": "#222222",
     "statusBar.border": "#222222",
     "widget.border": "#222222",
-    "activityBarBadge.foreground": "#b4b4b477",
-    "disabledForeground": "#b4b4b477",
-    "editor.lineHighlightBackground": "#b4b4b411",
-    "editorLineNumber.foreground": "#b4b4b477",
-    "editorWidget.border": "#b4b4b477",
-    "icon.foreground": "#b4b4b477",
-    "list.activeSelectionBackground": "#b4b4b444",
-    "list.hoverBackground": "#b4b4b411",
-    "statusBar.foreground": "#b4b4b477",
-    "tab.inactiveForeground": "#b4b4b477",
-    "activityBar.foreground": "#b4b4b4",
-    "badge.foreground": "#b4b4b4",
-    "button.foreground": "#b4b4b4",
-    "checkbox.foreground": "#b4b4b4",
-    "dropdown.foreground": "#b4b4b4",
-    "editor.foreground": "#b4b4b4",
-    "editorLineNumber.activeForeground": "#b4b4b4",
-    "foreground": "#b4b4b4",
-    "input.foreground": "#b4b4b4",
-    "list.activeSelectionForeground": "#b4b4b4",
-    "panelSectionHeader.foreground": "#b4b4b4",
-    "progressBar.background": "#b4b4b4",
-    "sideBar.foreground": "#b4b4b4",
-    "tab.activeForeground": "#b4b4b4",
-    "terminal.foreground": "#b4b4b4",
-    "tab.activeBorderTop": "#57a46e"
+    "activityBarBadge.foreground": "#c0c0c077",
+    "disabledForeground": "#c0c0c077",
+    "editor.lineHighlightBackground": "#c0c0c011",
+    "editorLineNumber.foreground": "#c0c0c077",
+    "editorWidget.border": "#c0c0c077",
+    "icon.foreground": "#c0c0c077",
+    "list.activeSelectionBackground": "#c0c0c044",
+    "list.hoverBackground": "#c0c0c011",
+    "statusBar.foreground": "#c0c0c077",
+    "tab.inactiveForeground": "#c0c0c077",
+    "activityBar.foreground": "#c0c0c0",
+    "badge.foreground": "#c0c0c0",
+    "button.foreground": "#c0c0c0",
+    "checkbox.foreground": "#c0c0c0",
+    "dropdown.foreground": "#c0c0c0",
+    "editor.foreground": "#c0c0c0",
+    "editorLineNumber.activeForeground": "#c0c0c0",
+    "foreground": "#c0c0c0",
+    "input.foreground": "#c0c0c0",
+    "list.activeSelectionForeground": "#c0c0c0",
+    "panelSectionHeader.foreground": "#c0c0c0",
+    "progressBar.background": "#c0c0c0",
+    "sideBar.foreground": "#c0c0c0",
+    "tab.activeForeground": "#c0c0c0",
+    "terminal.foreground": "#c0c0c0",
+    "tab.activeBorderTop": "#6fbf73"
   },
   "tokenColors": [
     {
@@ -97,7 +97,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#57a46e",
+        "foreground": "#b0b0b0",
         "fontStyle": "italic"
       }
     },
@@ -109,10 +109,11 @@
         "comment variable",
         "support.variable",
         "string constant.other.placeholder",
-        "constant.other.color"
+        "constant.other.color",
+        "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#b4b4b4",
+        "foreground": "#f0f0f0",
         "fontStyle": ""
       }
     },
@@ -176,7 +177,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#5990bc",
+        "foreground": "#76b3d1",
         "fontStyle": ""
       }
     },
@@ -193,7 +194,7 @@
         "string.quoted.docstring punctuation.definition"
       ],
       "settings": {
-        "foreground": "#57a46e",
+        "foreground": "#6fbf73",
         "fontStyle": "italic"
       }
     },
@@ -211,7 +212,7 @@
         "string.quoted.double.json"
       ],
       "settings": {
-        "foreground": "#57a46e",
+        "foreground": "#6fbf73",
         "fontStyle": ""
       }
     },
@@ -222,7 +223,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#c17272",
+        "foreground": "#e06c75",
         "fontStyle": "italic"
       }
     },
@@ -232,7 +233,7 @@
         "text.html.basic entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#b4f4b4",
+        "foreground": "#6fbf73",
         "fontStyle": "italic"
       }
     },
@@ -255,7 +256,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#5990bc",
+        "foreground": "#b0b0b0",
         "fontStyle": "italic"
       }
     },
@@ -272,7 +273,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#599000",
+        "foreground": "#76b3d1",
         "fontStyle": ""
       }
     },

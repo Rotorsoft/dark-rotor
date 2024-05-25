@@ -11,7 +11,7 @@
   "repository": "git+https://github.com/rotorsoft/dark-rotor.git",
   "private": false,
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -38,6 +38,11 @@
         "path": "./themes/dark-rotor-charcoal.json"
       },
       {
+        "label": "dark-rotor-red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-red.json"
+      },
+      {
         "label": "dark-rotor-blue",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-rotor-blue.json"
@@ -48,19 +53,9 @@
         "path": "./themes/dark-rotor-green.json"
       },
       {
-        "label": "dark-rotor-midnight",
+        "label": "dark-rotor-sunset",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-rotor-midnight.json"
-      },
-      {
-        "label": "dark-rotor-ocean",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-rotor-ocean.json"
-      },
-      {
-        "label": "dark-rotor-violet",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-rotor-violet.json"
+        "path": "./themes/dark-rotor-sunset.json"
       },
       {
         "label": "dark-rotor-twilight",
@@ -68,14 +63,39 @@
         "path": "./themes/dark-rotor-twilight.json"
       },
       {
-        "label": "dark-rotor-deep space",
+        "label": "dark-rotor-ocean",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-rotor-deep space.json"
+        "path": "./themes/dark-rotor-ocean.json"
       },
       {
-        "label": "dark-rotor-sunset",
+        "label": "dark-rotor-desert",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-rotor-sunset.json"
+        "path": "./themes/dark-rotor-desert.json"
+      },
+      {
+        "label": "dark-rotor-sea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-sea.json"
+      },
+      {
+        "label": "dark-rotor-space",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-space.json"
+      },
+      {
+        "label": "dark-rotor-forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-forest.json"
+      },
+      {
+        "label": "dark-rotor-sky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-sky.json"
+      },
+      {
+        "label": "dark-rotor-earth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-earth.json"
       }
     ]
   }

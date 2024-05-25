@@ -72,7 +72,7 @@
     "sideBar.foreground": "#c5c6c7",
     "tab.activeForeground": "#c5c6c7",
     "terminal.foreground": "#c5c6c7",
-    "tab.activeBorderTop": "#f6c22d"
+    "tab.activeBorderTop": "#66fcf1"
   },
   "tokenColors": [
     {
@@ -97,7 +97,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#c5c6c7",
+        "foreground": "#a6a7a8",
         "fontStyle": "italic"
       }
     },
@@ -109,10 +109,11 @@
         "comment variable",
         "support.variable",
         "string constant.other.placeholder",
-        "constant.other.color"
+        "constant.other.color",
+        "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#c5c6c7",
+        "foreground": "#e0e0e0",
         "fontStyle": ""
       }
     },
@@ -176,7 +177,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#45a29e",
+        "foreground": "#f6c22d",
         "fontStyle": ""
       }
     },
@@ -193,7 +194,7 @@
         "string.quoted.docstring punctuation.definition"
       ],
       "settings": {
-        "foreground": "#c5c1d6",
+        "foreground": "#66fcf1",
         "fontStyle": "italic"
       }
     },
@@ -211,7 +212,7 @@
         "string.quoted.double.json"
       ],
       "settings": {
-        "foreground": "#f6c22d",
+        "foreground": "#66fcf1",
         "fontStyle": ""
       }
     },
@@ -232,7 +233,7 @@
         "text.html.basic entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#c5c6c7",
+        "foreground": "#66fcf1",
         "fontStyle": "italic"
       }
     },
@@ -255,7 +256,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#f6c22d",
+        "foreground": "#a6a7a8",
         "fontStyle": "italic"
       }
     },
@@ -272,7 +273,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#45a29e",
+        "foreground": "#f6c22d",
         "fontStyle": ""
       }
     },
