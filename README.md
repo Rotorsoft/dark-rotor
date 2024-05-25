@@ -18,27 +18,22 @@ Welcome to **dark-rotor**. This theme aims to provide a calm, zen-like coding ex
 
 ## Color Scheme
 
-### Colors Used
-
-### Charcoal Theme
-
-- **Background**: #121212
-- **Foreground**: #b4b4b4
-- **Borders**: #222222
-- **Shadows, Comments**: #525050, #707070
-- **Constants**: #57a46e
-- **Functions, Methods**: #5990bc
-- **Keywords, Operators, Punctuation**: #888888
-
-### Blue Theme
-
-- **Background**: #0d1b2a
-- **Foreground**: #a3b9cc
-- **Borders**: #1b263b
-- **Shadows, Comments**: #475d77, #6b7b94
-- **Constants**: #69c19e
-- **Functions, Methods**: #d9b27a
-- **Keywords, Operators, Punctuation**: #859bb2
+- #background
+- #foreground
+- #border
+- #comment
+- #variable
+- #keyword
+- #function
+- #literal
+- #constant
+- #attribute
+- #class
+- #type
+- #decorator
+- #operator
+- #punctuation
+- #invalid
 
 ## Recommended Settings
 

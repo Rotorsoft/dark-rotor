@@ -40,3 +40,9 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.0.9]
 
 - Ligher editor widget background and borders
+
+## [0.1.0]
+
+- Theme generator
+- Restructured colors
+- More generated themes

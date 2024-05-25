@@ -11,7 +11,7 @@
   "repository": "git+https://github.com/rotorsoft/dark-rotor.git",
   "private": false,
   "license": "MIT",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -27,6 +27,9 @@
     "theme",
     "miminal"
   ],
+  "scripts": {
+    "generate": "node ./scripts/generator.mjs"
+  },
   "contributes": {
     "themes": [
       {
@@ -43,6 +46,36 @@
         "label": "dark-rotor-green",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-rotor-green.json"
+      },
+      {
+        "label": "dark-rotor-midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-midnight.json"
+      },
+      {
+        "label": "dark-rotor-ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-ocean.json"
+      },
+      {
+        "label": "dark-rotor-violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-violet.json"
+      },
+      {
+        "label": "dark-rotor-twilight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-twilight.json"
+      },
+      {
+        "label": "dark-rotor-deep space",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-deep space.json"
+      },
+      {
+        "label": "dark-rotor-sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rotor-sunset.json"
       }
     ]
   }
