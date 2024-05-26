@@ -50,3 +50,8 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.1.1]
 
 - Duotone themes
+
+## [0.1.2]
+
+- Punctuation scope
+- Tweak blue theme

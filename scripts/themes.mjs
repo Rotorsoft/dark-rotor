@@ -39,22 +39,28 @@ export const themes = [
   },
   {
     label: "blue",
-    background: "#0d1b2a",
-    foreground: "#7b9dbf",
-    border: "#1b263b",
-    comment: "#475d77",
-    variable: "#9fb3c8",
-    keyword: "#859bb2",
-    function: "#c0a278",
-    literal: "#5fa290",
-    constant: "#5fa290",
-    attribute: "#9fb3c8",
-    class: "#c0a278",
-    type: "#5fa290",
-    decorator: "#c0a278",
-    operator: "#859bb2",
-    punctuation: "#859bb2",
-    invalid: "#b35555",
+    background: "#1D262F",
+    border: "#444C55",
+    comment: "#444C55",
+    invalid: "#e06c75",
+
+    foreground: "#d6e9ff",
+    class: "#d6e9ff",
+    function: "#d6e9ff",
+
+    type: "#88b4e7",
+    variable: "#88b4e7",
+
+    keyword: "#5d8cc0",
+    attribute: "#586f89",
+
+    constant: "#6bba5b",
+
+    literal: "#32AE85",
+    decorator: "#32AE85",
+
+    operator: "#42675a",
+    punctuation: "#42675a",
   },
   {
     label: "green",

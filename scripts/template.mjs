@@ -12,6 +12,7 @@ export const template = {
     "editorGroupHeader.border": "#background",
     "editorGroupHeader.tabsBackground": "#background",
     "editorOverviewRuler.border": "#background",
+    "editorHoverWidget.background": "#background",
     "menu.background": "#background",
     "minimap.background": "#background",
     "panel.background": "#background",
@@ -34,7 +35,6 @@ export const template = {
     "dropdown.border": "#border",
     "dropdown.listBackground": "#border",
     "editorGroup.border": "#border",
-    "editorHoverWidget.background": "#border",
     "editorWidget.background": "#border",
     focusBorder: "#border",
     "input.background": "#border",
@@ -153,6 +153,14 @@ export const template = {
         "keyword.operator.logical",
         "keyword.operator.comparison",
         "keyword.operator.assignment",
+      ],
+      settings: {
+        foreground: "#keyword",
+        fontStyle: "",
+      },
+    },
+    {
+      scope: [
         "punctuation",
         "punctuation.definition",
         "punctuation.definition.tag",
@@ -166,7 +174,7 @@ export const template = {
         "punctuation.terminator",
       ],
       settings: {
-        foreground: "#keyword",
+        foreground: "#punctuation",
         fontStyle: "",
       },
     },

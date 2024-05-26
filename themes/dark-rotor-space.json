@@ -12,6 +12,7 @@
     "editorGroupHeader.border": "#24242e",
     "editorGroupHeader.tabsBackground": "#24242e",
     "editorOverviewRuler.border": "#24242e",
+    "editorHoverWidget.background": "#24242e",
     "menu.background": "#24242e",
     "minimap.background": "#24242e",
     "panel.background": "#24242e",
@@ -33,7 +34,6 @@
     "dropdown.border": "#49495a",
     "dropdown.listBackground": "#49495a",
     "editorGroup.border": "#49495a",
-    "editorHoverWidget.background": "#49495a",
     "editorWidget.background": "#49495a",
     "focusBorder": "#49495a",
     "input.background": "#49495a",
@@ -148,7 +148,15 @@
         "keyword.other.substitution",
         "keyword.operator.logical",
         "keyword.operator.comparison",
-        "keyword.operator.assignment",
+        "keyword.operator.assignment"
+      ],
+      "settings": {
+        "foreground": "#b06845",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
         "punctuation",
         "punctuation.definition",
         "punctuation.definition.tag",
@@ -162,7 +170,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#b06845",
+        "foreground": "#644c40",
         "fontStyle": ""
       }
     },
