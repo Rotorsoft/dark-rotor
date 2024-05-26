@@ -40,13 +40,12 @@ export const themes = [
   {
     label: "blue",
     background: "#1D262F",
-    border: "#444C55",
+    border: "#333B44",
     comment: "#444C55",
     invalid: "#e06c75",
 
     foreground: "#d6e9ff",
     class: "#d6e9ff",
-    function: "#d6e9ff",
 
     type: "#88b4e7",
     variable: "#88b4e7",
@@ -54,8 +53,9 @@ export const themes = [
     keyword: "#5d8cc0",
     attribute: "#586f89",
 
-    constant: "#6bba5b",
+    function: "#6bba5b",
 
+    constant: "#32AE85",
     literal: "#32AE85",
     decorator: "#32AE85",
 

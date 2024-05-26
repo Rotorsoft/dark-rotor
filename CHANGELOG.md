@@ -55,3 +55,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 
 - Punctuation scope
 - Tweak blue theme
+
+## [0.1.3]
+
+- Small template tweaks
