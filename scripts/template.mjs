@@ -96,17 +96,6 @@ export const template = {
     },
     {
       scope: [
-        "comment entity.name.type",
-        "comment storage.type",
-        "entity.name.type",
-      ],
-      settings: {
-        foreground: "#type",
-        fontStyle: "",
-      },
-    },
-    {
-      scope: [
         "variable",
         "variable.other",
         "variable.parameter",
@@ -175,10 +164,13 @@ export const template = {
         "entity.name.function",
         "entity.name.function.templated",
         "entity.name.function.member.static",
-        "meta.function-call",
-        "variable.function",
-        "support.function",
+        "entity.name.section",
+        "entity.other.attribute-name.id",
         "keyword.other.special-method",
+        "meta.require",
+        "meta.function-call",
+        "support.function",
+        "variable.function",
       ],
       settings: {
         foreground: "#function",
@@ -221,7 +213,7 @@ export const template = {
     },
 
     {
-      scope: ["invalid", "invalid.illegal", "markup.deleted.git_gutter"],
+      scope: ["invalid", "invalid.illegal"],
       settings: {
         foreground: "#invalid",
         fontStyle: "",
@@ -240,8 +232,11 @@ export const template = {
     },
     {
       scope: [
+        "comment entity.name.type",
+        "comment storage.type",
         "entity.name.class",
         "entity.name.namespace",
+        "entity.name.type",
         "entity.name.type.class",
         "entity.name.type.namespace",
         "entity.other.inherited-class",
@@ -249,6 +244,7 @@ export const template = {
         "entity.other.attribute-name.parent-selector-suffix.css",
         "entity.other.attribute-name.parent-selector-suffix.css punctuation.definition.entity.css",
         "entity.other.attribute-name.css",
+        "meta.class",
         "source.css support.type.property-name",
         "source.sass support.type.property-name",
         "source.scss support.type.property-name",
@@ -257,7 +253,7 @@ export const template = {
         "source.postcss support.type.property-name",
       ],
       settings: {
-        foreground: "#class",
+        foreground: "#type",
         fontStyle: "",
       },
     },
@@ -265,10 +261,6 @@ export const template = {
     {
       scope: [
         "entity.name.tag",
-        "entity.name.tag.js.jsx support.class.component.js.jsx",
-        "entity.name.tag support.class.component",
-        "entity.other.attribute-name",
-        "source.vue support.class.component",
         "string.regexp",
         "meta.tag.sgml",
         "tag.decorator.js entity.name.tag.js",

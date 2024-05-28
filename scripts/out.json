@@ -1,0 +1,306 @@
+[
+  {
+    "scope": [
+      "customrule",
+      "keyword.control.as.js",
+      "keyword.control.as.jsx",
+      "keyword.control.as.ts",
+      "keyword.control.as.tsx",
+      "meta.array-binding-pattern-variable.js",
+      "meta.array-binding-pattern-variable.ts",
+      "meta.array-binding-pattern-variable.tsx",
+      "meta.brace.round.js",
+      "meta.brace.round.ts",
+      "meta.brace.round.tsx",
+      "meta.brace.square.js",
+      "meta.brace.square.ts",
+      "meta.brace.square.tsx",
+      "meta.class.body",
+      "meta.class.js,meta.class.ts,meta.class.jsx,meta.class.tsx",
+      "meta.definition.property.js variable",
+      "meta.definition.property.jsx variable",
+      "meta.definition.property.ts variable",
+      "meta.definition.property.tsx variable",
+      "meta.method",
+      "meta.method-call",
+      "meta.separator",
+      "meta.tag",
+      "meta.tag.js punctuation.section.embedded",
+      "meta.tag.jsx punctuation.section.embedded",
+      "meta.tag.ts punctuation.section.embedded",
+      "meta.tag.tsx punctuation.section.embedded",
+      "meta.type.parameters.js support.type",
+      "meta.type.parameters.jsx support.type",
+      "meta.type.parameters.ts support.type",
+      "meta.type.parameters.tsx support.type",
+      "none",
+      "punctuation.definition.array",
+      "punctuation.definition.function-parameters",
+      "punctuation.definition.method-parameters",
+      "punctuation.definition.parameters",
+      "punctuation.definition.separator",
+      "punctuation.definition.seperator",
+      "punctuation.section.class",
+      "punctuation.section.inner-class",
+      "punctuation.section.method",
+      "punctuation.separator.parameter.js",
+      "punctuation.separator.parameter.ts",
+      "punctuation.separator.parameter.tsx ",
+      "punctuation.terminator.statement.js",
+      "punctuation.terminator.statement.ts",
+      "punctuation.terminator.statement.tsx",
+      "source.js meta.import-equals.external.js keyword.operator",
+      "source.js meta.tag.js keyword.operator",
+      "source.js punctuation.accessor",
+      "source.js punctuation.definition.block",
+      "source.js punctuation.definition.typeparameters",
+      "source.js punctuation.separator.comma",
+      "source.jsx meta.import-equals.external.jsx keyword.operator",
+      "source.jsx meta.tag.jsx keyword.operator",
+      "source.ts meta.import-equals.external.ts keyword.operator",
+      "source.ts meta.tag.ts keyword.operator",
+      "source.ts punctuation.accessor",
+      "source.ts punctuation.definition.block",
+      "source.ts punctuation.definition.typeparameters",
+      "source.ts punctuation.separator.comma",
+      "source.tsx meta.import-equals.external.tsx keyword.operator",
+      "source.tsx meta.tag.tsx keyword.operator",
+      "source.tsx punctuation.accessor",
+      "source.tsx punctuation.definition.block",
+      "source.tsx punctuation.definition.typeparameters",
+      "source.tsx punctuation.separator.comma",
+      "storage.modifier.import",
+      "storage.modifier.package",
+      "string > source",
+      "string embedded",
+      "support.type.property-name",
+      "variable.other.object.js",
+      "variable.other.object.ts",
+      "variable.other.readwrite.js",
+      "variable.other.readwrite.ts",
+      "variable.other.readwrite.tsx",
+      "variable.parameter"
+    ],
+    "settings": {
+      "foreground": "#ABB2BF"
+    }
+  },
+  {
+    "scope": [
+      "constant.language.import-export-all.js",
+      "constant.language.import-export-all.ts",
+      "entity.name.tag",
+      "keyword.control.default.js",
+      "keyword.control.default.ts",
+      "keyword.control.default.tsx",
+      "meta.definition.variable",
+      "meta.export.default.js variable.other.readwrite.js",
+      "meta.export.default.ts variable.other.readwrite.ts",
+      "meta.object-literal.key.js",
+      "meta.object-literal.key.ts",
+      "source.js support.variable",
+      "source.json meta.structure.dictionary.json > string.quoted.json",
+      "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
+      "source.ts support.variable",
+      "source.tsx support.variable",
+      "string.other.link",
+      "support.type.object.module.js",
+      "support.type.object.module.jsx",
+      "support.type.object.module.ts",
+      "support.type.object.module.tsx",
+      "support.type.property-name.json",
+      "support.type.property-name.json punctuation",
+      "support.variable.dom.js",
+      "support.variable.dom.ts",
+      "support.variable.property.dom.js",
+      "support.variable.property.dom.ts",
+      "support.variable.property.js",
+      "support.variable.property.ts",
+      "support.variable.property.tsx",
+      "variable",
+      "variable.other.readwrite.alias.js",
+      "variable.other.readwrite.alias.jsx",
+      "variable.other.readwrite.alias.ts",
+      "variable.other.readwrite.alias.tsx"
+    ],
+    "settings": {
+      "foreground": "#E06C75"
+    }
+  },
+  {
+    "scope": [
+      "keyword",
+      "keyword.control",
+      "keyword.operator",
+      "keyword.operator.expression.in.js",
+      "keyword.operator.expression.in.jsx",
+      "keyword.operator.expression.in.ts",
+      "keyword.operator.expression.in.tsx",
+      "keyword.operator.expression.instanceof.js",
+      "keyword.operator.expression.instanceof.ts",
+      "keyword.operator.expression.instanceof.tsx",
+      "keyword.operator.expression.of.js",
+      "keyword.operator.expression.of.ts",
+      "keyword.operator.expression.of.tsx",
+      "keyword.operator.new.j",
+      "keyword.operator.new.ts",
+      "keyword.operator.new.tsx",
+      "meta.selector",
+      "source.js keyword.operator.delete",
+      "source.js keyword.operator.in",
+      "source.js keyword.operator.instanceof",
+      "source.js keyword.operator.new",
+      "source.js keyword.operator.of",
+      "source.js keyword.operator.typeof",
+      "source.js keyword.operator.void",
+      "storage",
+      "storage.type.annotation",
+      "storage.type.primitive"
+    ],
+    "settings": {
+      "foreground": "#C678DD"
+    }
+  },
+  {
+    "scope": [
+      "constant.character.escape",
+      "constant.language.import-export-all.jsx",
+      "constant.language.import-export-all.tsx",
+      "constant.language.json",
+      "constant.other.color",
+      "constant.other.symbol",
+      "punctuation.separator.key-value.js",
+      "punctuation.separator.key-value.ts",
+      "punctuation.separator.key-value.tsx",
+      "source.flow keyword.operator",
+      "source.js keyword.operator",
+      "source.js.embedded.html keyword.operator",
+      "source.json meta.structure.array.json > constant.language.json",
+      "source.json meta.structure.dictionary.json > constant.language.json",
+      "source.ts keyword.operator",
+      "source.ts keyword.operator",
+      "source.ts.embedded.html keyword.operator",
+      "source.tsx keyword.operator",
+      "storage.type.property.js",
+      "storage.type.property.jsx",
+      "storage.type.property.ts",
+      "storage.type.property.tsx",
+      "string.regexp",
+      "support.function",
+      "support.type"
+    ],
+    "settings": {
+      "foreground": "#56B6C2"
+    }
+  },
+  {
+    "scope": [
+      "constant",
+      "constant.numeric",
+      "constant.variable",
+      "entity.other.attribute-name",
+      "keyword.other.unit",
+      "meta.array-binding-pattern-variable.js variable.other.readwrite.js",
+      "meta.array-binding-pattern-variable.ts variable.other.readwrite.ts",
+      "meta.array-binding-pattern-variable.tsx variable.other.readwrite.tsx",
+      "meta.link",
+      "support.constant",
+      "variable.other.constant.js",
+      "variable.other.constant.jsx",
+      "variable.other.constant.object.js",
+      "variable.other.constant.object.jsx",
+      "variable.other.constant.object.ts",
+      "variable.other.constant.object.tsx",
+      "variable.other.constant.property.js",
+      "variable.other.constant.property.ts",
+      "variable.other.constant.property.tsx",
+      "variable.other.constant.ts",
+      "variable.other.constant.tsx"
+    ],
+    "settings": {
+      "foreground": "#D19A66"
+    }
+  },
+  {
+    "scope": [
+      "entity.name.type.module.js,entity.name.type.module.ts,entity.name.type.module.jsx,entity.name.type.module.tsx",
+      "meta.template.expression.js string.quoted punctuation.definition",
+      "meta.template.expression.js string.template punctuation.definition.string.template",
+      "meta.template.expression.jsx string.quoted punctuation.definition",
+      "meta.template.expression.jsx string.template punctuation.definition.string.template",
+      "meta.template.expression.ts string.quoted punctuation.definition",
+      "meta.template.expression.ts string.template punctuation.definition.string.template",
+      "meta.template.expression.tsx string.quoted punctuation.definition",
+      "meta.template.expression.tsx string.template punctuation.definition.string.template",
+      "source.js meta.template.expression.js punctuation.accessor",
+      "source.json meta.structure.array.json > value.json > string.quoted.json",
+      "source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
+      "source.json meta.structure.dictionary.json > value.json > string.quoted.json",
+      "source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation",
+      "source.ts meta.template.expression.ts punctuation.accessor",
+      "source.tsx meta.template.expression.tsx punctuation.accessor",
+      "string",
+      "string.quoted.double punctuation"
+    ],
+    "settings": {
+      "foreground": "#98C379"
+    }
+  },
+  {
+    "scope": [
+      "entity.name.class",
+      "entity.name.type",
+      "entity.name.type.class",
+      "entity.other.inherited-class",
+      "meta.array.literal.js variable",
+      "meta.array.literal.jsx variable",
+      "meta.array.literal.ts variable",
+      "meta.array.literal.tsx variable",
+      "meta.class",
+      "string.regexp source.ruby.embedded",
+      "support.class"
+    ],
+    "settings": {
+      "foreground": "#E5C07B"
+    }
+  },
+  {
+    "scope": [
+      "entity.name.function",
+      "entity.name.section",
+      "entity.other.attribute-name.id",
+      "keyword.other.special-method",
+      "meta.require",
+      "punctuation.definition.heading",
+      "punctuation.definition.identity",
+      "support.function.any-method"
+    ],
+    "settings": {
+      "foreground": "#61AFEF"
+    }
+  },
+  {
+    "scope": [
+      "meta.template.expression.js punctuation.definition",
+      "meta.template.expression.ts punctuation.definition",
+      "punctuation.section.embedded",
+      "variable.interpolation"
+    ],
+    "settings": {
+      "foreground": "#BE5046"
+    }
+  },
+  {
+    "scope": ["comment markup.link", "punctuation.definition.comment"],
+    "settings": {
+      "foreground": "#5C6370"
+    }
+  },
+  {
+    "scope": ["comment"],
+    "settings": {
+      "foreground": "#5C6370",
+      "fontStyle": "italic"
+    }
+  }
+]
