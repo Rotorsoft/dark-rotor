@@ -102,7 +102,7 @@ export const template = {
       ],
       settings: {
         foreground: "#type",
-        fontStyle: "italic",
+        fontStyle: "",
       },
     },
     {
@@ -123,36 +123,28 @@ export const template = {
     },
     {
       scope: [
+        "entity.name.function.operator",
         "keyword",
         "keyword.control",
         "keyword.operator",
         "keyword.operator.new",
         "keyword.operator.expression",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "keyword.operator.logical",
+        "keyword.operator.comparison",
+        "keyword.operator.assignment",
         "storage.modifier",
         "storage.type",
         "variable.language",
         "constant.language",
         "support.class",
         "support.type",
-      ],
-      settings: {
-        foreground: "#keyword",
-        fontStyle: "italic",
-      },
-    },
-    {
-      scope: [
-        "entity.name.function.operator",
         "meta.brackets entity.name.function.operator",
         "meta.tag",
         "meta.brace",
         "constant.other.color",
         "storage.type.function.arrow",
-        "keyword.other.template",
-        "keyword.other.substitution",
-        "keyword.operator.logical",
-        "keyword.operator.comparison",
-        "keyword.operator.assignment",
       ],
       settings: {
         foreground: "#keyword",
@@ -207,7 +199,7 @@ export const template = {
       ],
       settings: {
         foreground: "#literal",
-        fontStyle: "italic",
+        fontStyle: "",
       },
     },
     {
@@ -232,7 +224,7 @@ export const template = {
       scope: ["invalid", "invalid.illegal", "markup.deleted.git_gutter"],
       settings: {
         foreground: "#invalid",
-        fontStyle: "italic",
+        fontStyle: "",
       },
     },
 
@@ -243,7 +235,7 @@ export const template = {
       ],
       settings: {
         foreground: "#attribute",
-        fontStyle: "italic",
+        fontStyle: "",
       },
     },
     {
@@ -266,7 +258,7 @@ export const template = {
       ],
       settings: {
         foreground: "#class",
-        fontStyle: "italic",
+        fontStyle: "",
       },
     },
 

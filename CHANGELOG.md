@@ -59,3 +59,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.1.3]
 
 - Small template tweaks
+
+## [0.1.4]
+
+- Remove italics
