@@ -53,6 +53,8 @@ export const template = {
 
     "activityBarBadge.foreground": "#foreground77",
     disabledForeground: "#foreground77",
+    "editor.selectionBackground": "#foreground22",
+    "editor.selectionHighlightBackground": "#foreground44",
     "editor.lineHighlightBackground": "#foreground11",
     "editorLineNumber.foreground": "#foreground77",
     "editorWidget.border": "#foreground77",

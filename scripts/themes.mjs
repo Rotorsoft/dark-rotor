@@ -3,10 +3,10 @@ export const themes = [
     label: "charcoal",
     background: "#181818",
     border: "#222222",
-    comment: "#525050",
     invalid: "#e06c75",
 
     foreground: "#c0c0c0",
+    comment: "#c0c0c077",
 
     type: "#32AE85",
     variable: "#32AE85",
@@ -27,10 +27,11 @@ export const themes = [
     label: "blue",
     background: "#182838",
     border: "#102030",
-    comment: "#444C55",
     invalid: "#e06c75",
 
     foreground: "#d6e9ff",
+    comment: "#d6e9ff77",
+
     type: "#d6e9ff",
 
     variable: "#88b4e7",
@@ -56,12 +57,11 @@ export const themes = [
     function: "#d6e9ff",
 
     foreground: "#88b4e7",
+    comment: "#88b4e777",
     variable: "#88b4e7",
     attribute: "#88b4e7",
 
     type: "#5d8cc0",
-
-    comment: "#444C55",
 
     literal: "#34FEBB",
     constant: "#34FEBB",
@@ -81,12 +81,11 @@ export const themes = [
     function: "#bebeef",
 
     foreground: "#8686cb",
+    comment: "#8686cb77",
     variable: "#8686cb",
     attribute: "#8686cb",
 
     type: "#7272a1",
-
-    comment: "#49495a",
 
     literal: "#fe7734",
     constant: "#fe7734",
@@ -106,12 +105,11 @@ export const themes = [
     function: "#f1ebff",
 
     foreground: "#cab2fa",
+    comment: "#cab2fa77",
     variable: "#cab2fa",
     attribute: "#cab2fa",
 
     type: "#ae91e8",
-
-    comment: "#544d60",
 
     literal: "#fec38f",
     constant: "#fec38f",

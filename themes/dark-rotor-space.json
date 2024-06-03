@@ -51,6 +51,8 @@
     "widget.border": "#49495a",
     "activityBarBadge.foreground": "#8686cb77",
     "disabledForeground": "#8686cb77",
+    "editor.selectionBackground": "#8686cb22",
+    "editor.selectionHighlightBackground": "#8686cb44",
     "editor.lineHighlightBackground": "#8686cb11",
     "editorLineNumber.foreground": "#8686cb77",
     "editorWidget.border": "#8686cb77",
@@ -86,7 +88,7 @@
         "comment text"
       ],
       "settings": {
-        "foreground": "#49495a",
+        "foreground": "#8686cb77",
         "fontStyle": "italic"
       }
     },
