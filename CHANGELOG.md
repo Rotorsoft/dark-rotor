@@ -71,3 +71,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.1.6]
 
 - Five editor selection backgrounds
+
+## [0.1.7]
+
+- Adjust backgrounds

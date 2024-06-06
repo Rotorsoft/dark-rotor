@@ -39,8 +39,6 @@ export const template = {
     focusBorder: "#border",
     "input.background": "#border",
     "input.border": "#border",
-    "list.activeSelectionBackground": "#border",
-    "list.hoverBackground": "#border77",
     "panel.border": "#border",
     "scrollbar.shadow": "#border",
     "scrollbarSlider.background": "#border77",
@@ -59,6 +57,8 @@ export const template = {
     "editorLineNumber.foreground": "#foreground77",
     "editorWidget.border": "#foreground77",
     "icon.foreground": "#foreground77",
+    "list.activeSelectionBackground": "#foreground22",
+    "list.hoverBackground": "#foreground44",
     "statusBar.foreground": "#foreground77",
     "tab.inactiveForeground": "#foreground77",
 
