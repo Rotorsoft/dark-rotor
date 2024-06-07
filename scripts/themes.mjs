@@ -2,7 +2,7 @@ export const themes = [
   {
     label: "charcoal",
     background: "#232222",
-    border: "#222222",
+    border: "#2a2a2a",
     invalid: "#e06c75",
 
     foreground: "#c0c0c0",
@@ -25,8 +25,8 @@ export const themes = [
   },
   {
     label: "blue",
-    background: "#132332",
-    border: "#102030",
+    background: "#102030",
+    border: "#1a2a3a",
     invalid: "#e06c75",
 
     foreground: "#d6e9ff",
