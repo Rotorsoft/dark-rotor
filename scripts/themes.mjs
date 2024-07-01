@@ -8,20 +8,19 @@ export const themes = [
     foreground: "#c0c0c0",
     comment: "#c0c0c077",
 
-    type: "#32AE85",
-    variable: "#32AE85",
+    type: "#34febb",
+    function: "#34febb",
+    variable: "#32ae85",
 
     keyword: "#888888",
     attribute: "#888888",
 
-    function: "#5d8cc0",
+    constant: "#d6e9ff",
+    literal: "#88b4e7",
+    decorator: "#5d8cc0",
 
-    constant: "#76b3d1",
-    literal: "#76b3d1",
-    decorator: "#76b3d1",
-
-    operator: "#888888",
-    punctuation: "#888888",
+    operator: "#c0c0c077",
+    punctuation: "#c0c0c077",
   },
   {
     label: "blue",

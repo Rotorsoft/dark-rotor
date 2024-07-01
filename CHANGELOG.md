@@ -79,3 +79,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.1.8]
 
 - Adjust scroll backgrounds
+
+## [0.1.9]
+
+- Update charchoal theme

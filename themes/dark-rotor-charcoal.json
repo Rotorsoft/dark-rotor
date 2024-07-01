@@ -74,7 +74,7 @@
     "sideBar.foreground": "#c0c0c0",
     "tab.activeForeground": "#c0c0c0",
     "terminal.foreground": "#c0c0c0",
-    "tab.activeBorderTop": "#76b3d1"
+    "tab.activeBorderTop": "#d6e9ff"
   },
   "tokenColors": [
     {
@@ -104,7 +104,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#32AE85",
+        "foreground": "#32ae85",
         "fontStyle": ""
       }
     },
@@ -153,7 +153,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#888888",
+        "foreground": "#c0c0c077",
         "fontStyle": ""
       }
     },
@@ -171,7 +171,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#5d8cc0",
+        "foreground": "#34febb",
         "fontStyle": ""
       }
     },
@@ -188,7 +188,7 @@
         "string.quoted.docstring punctuation.definition"
       ],
       "settings": {
-        "foreground": "#76b3d1",
+        "foreground": "#88b4e7",
         "fontStyle": ""
       }
     },
@@ -205,7 +205,7 @@
         "string.quoted.double.json"
       ],
       "settings": {
-        "foreground": "#76b3d1",
+        "foreground": "#d6e9ff",
         "fontStyle": ""
       }
     },
@@ -252,7 +252,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#32AE85",
+        "foreground": "#34febb",
         "fontStyle": ""
       }
     },
@@ -265,7 +265,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "foreground": "#76b3d1",
+        "foreground": "#5d8cc0",
         "fontStyle": ""
       }
     },
