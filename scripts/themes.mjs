@@ -15,12 +15,12 @@ export const themes = [
     keyword: "#888888",
     attribute: "#888888",
 
-    constant: "#d6e9ff",
-    literal: "#88b4e7",
-    decorator: "#5d8cc0",
+    constant: "#aaaa99",
+    literal: "#bbbb99",
+    decorator: "#999999",
 
-    operator: "#c0c0c077",
-    punctuation: "#c0c0c077",
+    operator: "#666666",
+    punctuation: "#666666",
   },
   {
     label: "blue",
