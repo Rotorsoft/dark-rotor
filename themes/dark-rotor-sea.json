@@ -79,6 +79,25 @@
   "tokenColors": [
     {
       "scope": [
+        "meta.definition.function",
+        "meta.definition.variable entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#d6e9ff",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#d6e9ff",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
         "comment",
         "comment keyword",
         "comment markup.underline.link",
@@ -154,24 +173,6 @@
       ],
       "settings": {
         "foreground": "#42675a",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        "meta.definition.function"
-      ],
-      "settings": {
-        "foreground": "#d6e9ff",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        "meta.function-call"
-      ],
-      "settings": {
-        "foreground": "#d6e9ff",
         "fontStyle": ""
       }
     },

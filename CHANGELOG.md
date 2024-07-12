@@ -92,3 +92,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 
 - Create function_definition and function_call
 - Update charcoal theme
+
+## [0.1.12]
+
+- Update function definition

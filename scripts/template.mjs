@@ -83,6 +83,23 @@ export const template = {
   tokenColors: [
     {
       scope: [
+        "meta.definition.function",
+        "meta.definition.variable entity.name.function",
+      ],
+      settings: {
+        foreground: "#function_definition",
+        fontStyle: "",
+      },
+    },
+    {
+      scope: ["meta.function-call"],
+      settings: {
+        foreground: "#function_call",
+        fontStyle: "",
+      },
+    },
+    {
+      scope: [
         "comment",
         "comment keyword",
         "comment markup.underline.link",
@@ -161,20 +178,7 @@ export const template = {
         fontStyle: "",
       },
     },
-    {
-      scope: ["meta.definition.function"],
-      settings: {
-        foreground: "#function_definition",
-        fontStyle: "",
-      },
-    },
-    {
-      scope: ["meta.function-call"],
-      settings: {
-        foreground: "#function_call",
-        fontStyle: "",
-      },
-    },
+
     {
       scope: [
         "constant",
