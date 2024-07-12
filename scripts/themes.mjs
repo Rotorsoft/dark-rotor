@@ -1,26 +1,26 @@
 export const themes = [
   {
     label: "charcoal",
-    background: "#232222",
-    border: "#2a2a2a",
+    background: "#121111",
+    border: "#1d1d1d",
     invalid: "#e06c75",
 
-    foreground: "#c0c0c0",
-    comment: "#c0c0c077",
-
-    type: "#34febb",
-    function: "#34febb",
-    variable: "#32ae85",
+    foreground: "#a0a0a0",
+    comment: "#a0a0a077",
 
     keyword: "#888888",
     attribute: "#888888",
-
-    constant: "#aaaa99",
-    literal: "#bbbb99",
-    decorator: "#999999",
-
     operator: "#666666",
     punctuation: "#666666",
+    decorator: "#999999",
+
+    function_definition: "#fecb52",
+    function_call: "#b09045",
+
+    type: "#34febb",
+    variable: "#32ae85",
+    constant: "#a0a0a0",
+    literal: "#a0a0a0",
   },
   {
     label: "blue",
@@ -38,7 +38,8 @@ export const themes = [
     keyword: "#5d8cc0",
     attribute: "#586f89",
 
-    function: "#6bba5b",
+    function_definition: "#6bba5b",
+    function_call: "#6bba5b",
 
     constant: "#32AE85",
     literal: "#32AE85",
@@ -53,7 +54,8 @@ export const themes = [
     border: "#444C55",
     invalid: "#e06c75",
 
-    function: "#d6e9ff",
+    function_definition: "#d6e9ff",
+    function_call: "#d6e9ff",
 
     foreground: "#88b4e7",
     comment: "#88b4e777",
@@ -77,7 +79,8 @@ export const themes = [
     border: "#49495a",
     invalid: "#e06c75",
 
-    function: "#bebeef",
+    function_definition: "#bebeef",
+    function_call: "#bebeef",
 
     foreground: "#8686cb",
     comment: "#8686cb77",
@@ -101,7 +104,8 @@ export const themes = [
     border: "#544d60",
     invalid: "#e06c75",
 
-    function: "#f1ebff",
+    function_definition: "#f1ebff",
+    function_call: "#f1ebff",
 
     foreground: "#cab2fa",
     comment: "#cab2fa77",

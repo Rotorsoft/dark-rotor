@@ -159,16 +159,16 @@
     },
     {
       "scope": [
-        "entity.name.function",
-        "entity.name.function.templated",
-        "entity.name.function.member.static",
-        "entity.name.section",
-        "entity.other.attribute-name.id",
-        "keyword.other.special-method",
-        "meta.require",
-        "meta.function-call",
-        "support.function",
-        "variable.function"
+        "meta.definition.function"
+      ],
+      "settings": {
+        "foreground": "#f1ebff",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "meta.function-call"
       ],
       "settings": {
         "foreground": "#f1ebff",

@@ -162,20 +162,16 @@ export const template = {
       },
     },
     {
-      scope: [
-        "entity.name.function",
-        "entity.name.function.templated",
-        "entity.name.function.member.static",
-        "entity.name.section",
-        "entity.other.attribute-name.id",
-        "keyword.other.special-method",
-        "meta.require",
-        "meta.function-call",
-        "support.function",
-        "variable.function",
-      ],
+      scope: ["meta.definition.function"],
       settings: {
-        foreground: "#function",
+        foreground: "#function_definition",
+        fontStyle: "",
+      },
+    },
+    {
+      scope: ["meta.function-call"],
+      settings: {
+        foreground: "#function_call",
         fontStyle: "",
       },
     },
