@@ -96,3 +96,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.1.12]
 
 - Update function definition
+
+## [0.1.13]
+
+- Update themes

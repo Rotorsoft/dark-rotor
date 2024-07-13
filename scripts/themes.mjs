@@ -38,7 +38,7 @@ export const themes = [
     keyword: "#5d8cc0",
     attribute: "#586f89",
 
-    function_definition: "#6bba5b",
+    function_definition: "#34febb",
     function_call: "#6bba5b",
 
     constant: "#32AE85",
@@ -50,77 +50,71 @@ export const themes = [
   },
   {
     label: "sea",
-    background: "#1D262F",
-    border: "#444C55",
+    background: "#0D161F",
+    border: "#242C35",
     invalid: "#e06c75",
 
-    function_definition: "#d6e9ff",
-    function_call: "#d6e9ff",
+    foreground: "#5d8cc0",
+    comment: "#444c55",
 
-    foreground: "#88b4e7",
-    comment: "#88b4e777",
+    keyword: "#586f89",
+    attribute: "#586f89",
+    operator: "#444c55",
+    punctuation: "#444c55",
+    decorator: "#444c55",
+
+    function_definition: "#34febb",
+    function_call: "#32ae85",
+
+    type: "#d6e9ff",
     variable: "#88b4e7",
-    attribute: "#88b4e7",
-
-    type: "#5d8cc0",
-
-    literal: "#34FEBB",
-    constant: "#34FEBB",
-    decorator: "#34FEBB",
-
-    keyword: "#32AE85",
-    operator: "#32AE85",
-
-    punctuation: "#42675a",
+    constant: "#5d8cc0",
+    literal: "#5d8cc0",
   },
   {
     label: "space",
-    background: "#24242e",
-    border: "#49495a",
+    background: "#14141e",
+    border: "#29293a",
     invalid: "#e06c75",
 
-    function_definition: "#bebeef",
-    function_call: "#bebeef",
+    foreground: "#7272a1",
+    comment: "#49495a",
 
-    foreground: "#8686cb",
-    comment: "#8686cb77",
+    keyword: "#5b5b7b",
+    attribute: "#5b5b7b",
+    operator: "#49495a",
+    punctuation: "#49495a",
+    decorator: "#49495a",
+
+    function_definition: "#fe7734",
+    function_call: "#b06845",
+
+    type: "#bebeef",
     variable: "#8686cb",
-    attribute: "#8686cb",
-
-    type: "#7272a1",
-
-    literal: "#fe7734",
-    constant: "#fe7734",
-    decorator: "#fe7734",
-
-    keyword: "#b06845",
-    operator: "#b06845",
-
-    punctuation: "#644c40",
+    constant: "#7272a1",
+    literal: "#7272a1",
   },
   {
     label: "sky",
-    background: "#2c2734",
-    border: "#544d60",
+    background: "#1c1724",
+    border: "#342d40",
     invalid: "#e06c75",
 
-    function_definition: "#f1ebff",
-    function_call: "#f1ebff",
+    foreground: "#a391e8",
+    comment: "#544d60",
 
-    foreground: "#cab2fa",
-    comment: "#cab2fa77",
+    keyword: "#715f95",
+    attribute: "#715f95",
+    operator: "#544d60",
+    punctuation: "#544d60",
+    decorator: "#544d60",
+
+    function_definition: "#fec38f",
+    function_call: "#b07745",
+
+    type: "#f1ebff",
     variable: "#cab2fa",
-    attribute: "#cab2fa",
-
-    type: "#ae91e8",
-
-    literal: "#fec38f",
-    constant: "#fec38f",
-    decorator: "#fec38f",
-
-    keyword: "#b07745",
-    operator: "#b07745",
-
-    punctuation: "#765f4c",
+    constant: "#a391e8",
+    literal: "#a391e8",
   },
 ]
