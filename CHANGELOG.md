@@ -100,3 +100,7 @@ All notable changes to the "dark-rotor" extension will be documented in this fil
 ## [0.1.13]
 
 - Update themes
+
+## [0.1.14]
+
+- Add python function definitions

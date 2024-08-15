@@ -85,6 +85,8 @@ export const template = {
       scope: [
         "meta.definition.function",
         "meta.definition.variable entity.name.function",
+        "meta.function.python entity.name.function.python",
+        "meta.function.python support.function",
       ],
       settings: {
         foreground: "#function_definition",
